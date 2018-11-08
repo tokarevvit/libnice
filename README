@@ -1,5 +1,6 @@
 
 Nice: GLib ICE library
+This is a Libnice version with OpenSSL instead of gnutls library
 ======================
 
 Copyright
@@ -18,7 +19,6 @@ Requirements
 
  glib >= 2.44
  pkg-config
- gnutls >= 2.12.0
  gupnp-igd >= 0.1.2 (optional)
  gstreamer-0.10 >= 0.10.0 (optional)
  gstreamer-1.0 (optional)
